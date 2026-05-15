@@ -51,37 +51,7 @@ Currently working as an AI Developer at Tata Consultancy Services, building prod
 
 # 🚀 Featured Projects
 
-## 🧠 AMS Assistant – Multi-Agent AI System
-### Tech Stack:
-Python • FastAPI • LangChain • ServiceNow APIs • Next.js
 
-- Built a multi-agent backend system for intelligent IT incident management
-- Designed planning, execution, and validation agents for workflow orchestration
-- Integrated external enterprise systems for automated resolution actions
-- Reduced manual intervention by 50–60%
-
----
-
-## 📊 Talk to Data – NL-to-SQL Engine
-### Tech Stack:
-Python • FastAPI • LLMs • Prompt Engineering
-
-- Developed a natural language to SQL engine with intelligent query routing
-- Optimized cost, latency, and accuracy using multi-tier architecture
-- Reduced dependency on data analysts by 60–65%
-
----
-
-## 📄 Automated Report Generator
-### Tech Stack:
-Python • RAG • LLMs • Vector Databases • FastAPI
-
-- Architected multi-stage RAG pipelines for document analysis
-- Built automated structured report synthesis workflows
-- Added human-in-the-loop validation for reliability
-- Reduced manual report generation effort by 70–75%
-
----
 
 ## 🏥 AI Healthcare Assistant
 ### Tech Stack:
