@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Desilva Stalin</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20👋,%20I'm%20Desilva%20Stalin&fontSize=36&fontColor=ffffff&fontFamily=Fira%20Code&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=62&descSize=18"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;FastAPI+%7C+LangGraph+%7C+Vector+Databases;Building+Production-Grade+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;FastAPI+%7C+LangGraph+%7C+Vector+Databases;Building+Production-Grade+AI+Systems" />
 </p>
 
 ---
@@ -18,6 +20,17 @@
   <a href="https://github.com/desilva23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/desilva23/desilva23?color=7dcfff&style=for-the-badge&label=last%20updated"/>
+  <img src="https://komarev.com/ghpvc/?username=desilva23&color=9ece6a&style=for-the-badge&label=profile+views"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -51,10 +64,10 @@ Current Focus:
 ## 👨‍💻 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7dcfff"/>
+  <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=e0af68"/>
+  <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68"/>
 </p>
 
 ---
@@ -62,13 +75,13 @@ Current Focus:
 ## 🤖 AI / ML
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FFB703?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-3A86FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal_AI-8338EC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-1a1b27?style=for-the-badge&logoColor=bb9af7"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-1a1b27?style=for-the-badge&logoColor=f7768e"/>
+  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logoColor=9ece6a"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-1a1b27?style=for-the-badge&logoColor=7dcfff"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1a1b27?style=for-the-badge&logoColor=e0af68"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-1a1b27?style=for-the-badge&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/Multimodal_AI-1a1b27?style=for-the-badge&logoColor=bb9af7"/>
 </p>
 
 ---
@@ -76,12 +89,12 @@ Current Focus:
 ## ⚙️ Frameworks & Backend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ece6a"/>
+  <img src="https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=f7768e"/>
+  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logoColor=7dcfff"/>
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a"/>
 </p>
 
 ---
@@ -190,6 +203,10 @@ Current Focus:
 
 > Client-side photo → branded Hacker House Goa 2026 profile frame or builder ID card generator, built for the #FrameInGoa campaign.
 
+<p align="center">
+  <img src="https://framein-goa.vercel.app/opengraph-image?3fd4a426b9fa293b" width="600" alt="Frame in Goa preview"/>
+</p>
+
 ### ⚡ Features
 - Canvas-based client-side rendering (no server round-trip)
 - HEIC photo support
@@ -220,11 +237,20 @@ Current Focus:
 
 # 🏆 Achievements
 
-🥇 Best Paper Presentation — IEEE ICCDS 2024  
-🥇 1st Place — Verve-a-thon Gen AI Hackathon  
-📄 Published Research Paper in IEEE ICCDS 2024  
-☁ Salesforce Certified AI Associate  
-☁ Salesforce Certified Platform Developer I  
+<p align="left">
+  <img src="https://img.shields.io/badge/🥇_Best_Paper_Presentation-IEEE_ICCDS_2024-1a1b27?style=for-the-badge&labelColor=1a1b27&color=e0af68"/><br/>
+  <img src="https://img.shields.io/badge/🥇_1st_Place-Verve--a--thon_Gen_AI_Hackathon-1a1b27?style=for-the-badge&labelColor=1a1b27&color=e0af68"/><br/>
+  <img src="https://img.shields.io/badge/📄_Published_Research-IEEE_ICCDS_2024-1a1b27?style=for-the-badge&labelColor=1a1b27&color=7aa2f7"/><br/>
+  <img src="https://img.shields.io/badge/☁️_Certified-Salesforce_AI_Associate-1a1b27?style=for-the-badge&labelColor=1a1b27&color=9ece6a"/><br/>
+  <img src="https://img.shields.io/badge/☁️_Certified-Salesforce_Platform_Developer_I-1a1b27?style=for-the-badge&labelColor=1a1b27&color=9ece6a"/>
+</p>
+
+---
+
+# 📬 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
