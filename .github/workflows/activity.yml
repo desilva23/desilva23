@@ -16,5 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          FILTER_EVENTS: "PushEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent,CreateEvent,ForkEvent,WatchEvent"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
