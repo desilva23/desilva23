@@ -198,7 +198,11 @@ Current Focus:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/desilva23/desilva23/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desilva23/desilva23/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desilva23/desilva23/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/desilva23/desilva23/output/snake.svg" />
+  </picture>
 </p>
 
 ---
