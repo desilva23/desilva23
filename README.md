@@ -250,7 +250,7 @@ Current Focus:
 # 📬 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/superdocsapp/superdocs-builds/pull/146) in [superdocsapp/superdocs-builds](https://github.com/superdocsapp/superdocs-builds)
+1. 🚀 Published release [Tassel 0.1.1](https://github.com/desilva23/homebrew-tap/releases/tag/tassel-0.1.1) in [desilva23/homebrew-tap](https://github.com/desilva23/homebrew-tap)
 <!--END_SECTION:activity-->
 
 ---
