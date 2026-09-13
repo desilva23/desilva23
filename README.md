@@ -250,7 +250,7 @@ Current Focus:
 # 📬 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tassel 0.1.2](https://github.com/desilva23/homebrew-tap/releases/tag/tassel-0.1.2) in [desilva23/homebrew-tap](https://github.com/desilva23/homebrew-tap)
+1. 🚀 Published release [Tassel 0.1.3](https://github.com/desilva23/Tassel/releases/tag/v0.1.3) in [desilva23/Tassel](https://github.com/desilva23/Tassel)
 <!--END_SECTION:activity-->
 
 ---
