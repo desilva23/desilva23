@@ -250,7 +250,7 @@ Current Focus:
 # 📬 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/desilva23/Task/pull/5) in [desilva23/Task](https://github.com/desilva23/Task)
+1. 💪 Opened PR [#1](https://github.com/desilva23/celebration-planner/pull/1) in [desilva23/celebration-planner](https://github.com/desilva23/celebration-planner)
 <!--END_SECTION:activity-->
 
 ---
